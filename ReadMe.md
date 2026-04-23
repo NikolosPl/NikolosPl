@@ -8,13 +8,7 @@
 
 ## 💫 About Me
   Cześć! Jestem Nikodem Hofman, uczeń Technikum Ekonomiczno-Administracyjnego nr 1 w Poznaniu, gdzie zdobywam tytuł technika programisty.<br>Pasjonuję się tworzeniem aplikacji — od stron internetowych, przez aplikacje konsolowe, aż po aplikacje desktopowe. Lubię pisać kod, który jest zarówno funkcjonalny, jak i dobrze zorganizowany.<br>W wolnym czasie rozwijam własne projekty i stale poszerzam swoje umiejętności w nowych technologiach. Jestem otwarty na współpracę i nowe wyzwania.
-
-
-## 🧠 My Focus Areas
-- Tworzenie aplikacji internetowych
-- Rozwój oprogramowania
-
-
+  
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/nikolospl">
